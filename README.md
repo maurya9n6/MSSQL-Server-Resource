@@ -12,6 +12,7 @@
 
 <img width="139" height="161" alt="Capture" src="https://github.com/user-attachments/assets/19dc62d5-e421-4a6a-9d44-12baacf7b43a" />
 
-<br> │   ├── DB Restore-1/https://www.mssqltips.com/sqlservertip/6893/restore-database-sql-server-options-examples/
-<br> │   ├── DB Restore-2/https://www.mssqltips.com/sqlservertip/3049/different-ways-to-restore-a-sql-server-database/
+<br> │   ├── DB bkp & Restore-1/https://www.mssqltips.com/sqlservertip/6893/restore-database-sql-server-options-examples/
+<br> │   ├── DB bkp & Restore-2/https://www.mssqltips.com/sqlservertip/3049/different-ways-to-restore-a-sql-server-database/
+<br> │   ├── DB bkp & Restore-3/https://www.sqlshack.com/understanding-sql-server-backup-types/
 <br> │   ├── DB backup lsn/https://www.mssqltips.com/sqlservertip/3209/understanding-sql-server-log-sequence-numbers-for-backups/
