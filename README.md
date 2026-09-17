@@ -9,3 +9,6 @@
 <br> │   ├── Tail-Log Backup and Restore in SQL Server/https://www.sqlshack.com/tail-log-backup-and-restore-in-sql-server/
 <br> │   ├── WMI Error/https://blog.sqlauthority.com/2020/03/31/sql-server-fix-configuration-manager-cannot-connect-to-wmi-provider-you-do-not-have-permission-or-the-server-is-unreachable/
 <br> │   ├── PLE/https://www.sqlshack.com/page-life-expectancy-ple-in-sql-server/
+<br> │   ├── DB Restore-1/https://www.mssqltips.com/sqlservertip/6893/restore-database-sql-server-options-examples/
+<br> │   ├── DB Restore-2/https://www.mssqltips.com/sqlservertip/3049/different-ways-to-restore-a-sql-server-database/
+<br> │   ├── DB backup lsn/https://www.mssqltips.com/sqlservertip/3209/understanding-sql-server-log-sequence-numbers-for-backups/
